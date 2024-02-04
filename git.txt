@@ -1,0 +1,26 @@
+Below are basic guidelines to help Chen install Git on a local machine. 
+
+For Windows:
+
+1. Download the Git installer from the official Git website.
+2. Run the installer and follow the on-screen instructions.
+3. During installation, choose the default options unless you have specific preferences.
+4. Select appropriate settings for line endings conversion (usually, the default settings work fine).
+5. Choose the terminal emulator for Git (e.g., Git Bash is commonly used on Windows).
+
+For macOS:
+
+1. You can install Git on macOS using Homebrew by running `brew install git` in the terminal.
+2. Alternatively, download the Git installer for macOS from the official Git website and follow the installation instructions.
+
+For Linux:
+
+1. Use your distribution's package manager to install Git. For example, on Debian/Ubuntu-based systems, run `sudo apt-get install git`.
+2. Alternatively, you can download and compile Git from the source by following the instructions on the official Git website.
+
+Verification:
+
+1. After installation, open a terminal or command prompt and type `git --version` to verify the installation.
+2. Configure Git with your name and email using `git config --global user.name "Your Name"` and `git config --global user.email "your@email.com"`.
+
+By following the above steps/guidelines, Git should be successfully installed and configured on your local machine.

@@ -1,0 +1,61 @@
+Below are is a list of 20 Git commands along with their functions:
+
+1. GIT INIT
+   - Function: Initializes a new Git repository in the current directory.
+
+2. Git Clone
+   - Function: Creates a copy of a remote repository on your local machine.
+
+3. Git Add
+   - Function: Adds changes in a file to the staging area in preparation for a commit.
+
+4. Git Commit
+   - Function: Commits the changes in the staging area with a descriptive message.
+
+5. Git Status
+   - Function: Displays the current status of your working directory and staging area.
+
+6. Git Log
+   - Function: Shows a log of all commits, with their commit messages and details.
+
+7. Git branch
+   - Function: Lists all local branches in the repository
+
+8. Git branch <branch_name>
+   - Function: Creates a new branch with the specified name.
+
+9. Git checkout <branch_name>
+   - Function: Switches to the specified branch.
+
+10. Git merge <branch_name>
+    - Function: Combines changes from the specified branch into the current branch.
+
+11. Git pull
+    - Function: Fetches changes from the remote repository and merges them into the current branch.
+
+12. Git push
+    - Function: Pushes changes in the local repository to the remote repository.
+
+13. Git remote -v
+    - Function: Shows a list of remote repositories associated with the current repository.
+
+14. Git remote add <name> <repository_url>
+    - Function: Adds a new remote repository with the specified name and URL.
+
+15. Git fetch
+    - Function: Fetches changes from the remote repository but does not merge them.
+
+16. Git diff
+    - Function: Shows the differences between the working directory and the staging area.
+
+17. Git diff <commit1>..<commit2>
+    - Function: Displays the differences between two commits.
+
+18. Git reset <file>
+    - Function: Unstages changes for a specific file.
+
+19. Git rm <file>
+    - Function: Removes a file from both the working directory and the Git repository.
+
+20. Git tag <tag_name>
+    - Function: Creates a lightweight tag at the current commit.
